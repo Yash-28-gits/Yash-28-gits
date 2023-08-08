@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=90)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-28-gits&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 <h1 align="center">Hi 👋, I'm Yash Rohilla</h1>
 <h3 align="center">A passionate programmer</h3>
@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/yash02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/yash02" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-28-gits&show_icons=true&locale=en&layout=compact" alt="yash-28-gits" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-28-gits&show_icons=true&locale=en&layout=compact" alt="Yash-28-gits" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-28-gits&show_icons=true&locale=en" alt="yash-28-gits" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yash-28-gits&show_icons=true&locale=en" alt="Yash-28-gits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-28-gits&" alt="yash-28-gits" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-28-gits&" alt="Yash-28-gits" /></p>
