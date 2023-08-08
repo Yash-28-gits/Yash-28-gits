@@ -8,11 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-28-gits&label=Profile%20views&color=0e75b6&style=flat" alt="yash-28-gits" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-28-gits" alt="yash-28-gits" /></a> </p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=yash-28-gits&theme=gruvbox" alt="yash-28-gits" /></a> </p>
+
 
 - 🌱 I’m currently learning **C++,JAVA,Python**
 
-- 📫 How to reach me **yashhere777@gmail.com**
+- 📫 How to reach me: **gmail me broooo---->yashhere777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
