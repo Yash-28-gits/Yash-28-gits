@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Rohilla</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center"> Silence Please</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-28-gits&label=Profile%20views&color=0e75b6&style=flat" alt="yash-28-gits" /> </p>
 
