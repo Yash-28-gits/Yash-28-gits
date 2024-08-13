@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Yash Rohilla</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-28-gits&label=Profile%20views&color=0e75b6&style=flat" alt="yash-28-gits" /> </p>
+
 
 # 💫 About Me:
 Constant learner 
