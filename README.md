@@ -3,13 +3,12 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Yash Rohilla</h1>
+<h1 align="center">Hi 👋, I'm Yash</h1>
 
 
 
 
-# 💫 About Me:
-Constant learner 
+
 
 
 # 💻 Tech Stack:
